@@ -1,0 +1,8 @@
+[package]
+name = "priority_task_manager"
+version = "0.1.0"
+edition = "2021"
+description = "A simple command-line priority-based task manager"
+license = "MIT"
+
+[dependencies]
