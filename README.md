@@ -76,15 +76,15 @@ The main components of the Priority Task Manager are:
 - `TaskManager`: A struct that manages the collection of tasks, providing methods to add, list, and complete tasks.
 - Main loop: Handles user interaction, calling appropriate `TaskManager` methods based on user input.
 
-## Future Enhancements
+## Feature Plans for the coming future
 
-Potential improvements for future versions:
+For the future version, I am considering of adding:
 
-1. Persistent storage: Save tasks to a file so they persist between sessions.
-2. Due dates: Add due dates to tasks and sort by both priority and due date.
-3. Editing tasks: Allow users to edit existing task details.
-4. Categories or tags: Implement a system to categorize or tag tasks.
-5. User interface improvements: Implement a text-based user interface (TUI) for a more interactive experience.
+1. Persistent storage: to save tasks to a file so they persist between sessions.
+2. Due dates: add due dates to tasks and sort by both priority and due date.
+3. Editing tasks: allow users to edit existing task details.
+4. Categories or tags: implement a system to categorize or tag tasks.
+5. User interface improvements: implement a text-based user interface (TUI) for a more interactive experience.
 
 ## Contributing
 
